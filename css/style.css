@@ -149,5 +149,26 @@ p {
 .half-width img {
   width: 456px;
   height: 477px;
+  border-radius: 2rem;
+}
+/* 
+#email {
+  display: flex;
+  background: #fff4d6;
+  width: 809px;
+  height: 200px;
+} */
+footer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: black;
+  padding: 4rem;
+}
+footer h3 {
+  color: red;
+}
+footer p {
+  color: #fff;
 }
 /* Main Section End */
